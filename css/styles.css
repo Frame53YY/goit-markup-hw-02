@@ -150,15 +150,6 @@ body {
 	line-height: var(--title-line-height);
 }
 
-.work-list .link {
-	color: inherit;
-	text-decoration: none;
-}
-
-.work-list .text {
-	line-height: inherit;
-}
-
 /* Button */
 
 .button {
