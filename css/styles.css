@@ -35,7 +35,7 @@ a {
 .logo-part {
   color: #4d5ae5;
 }
-color: #404bbf;
+
 .navigation-list {
 }
 
@@ -104,8 +104,95 @@ address {
   background: #404bbf;
 }
 
+/* --------------------DESCRIPTION-------------------- */
+
+.description-section {
+}
+.description-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  color: #2e2f42;
+}
+.description-list {
+}
+.description-item {
+}
+.description-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.description-item-text {
+  color: #434455;
+}
+
+/* --------------------TEAM-------------------- */
+
+.team-section {
+  background: #f4f4fd;
+}
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  color: #2e2f42;
+}
+.team-list {
+}
+.team-item {
+  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
+    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+  background: #fff;
+}
+.team-image {
+}
+.team-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+}
+.team-role {
+  text-align: center;
+  color: #434455;
+}
+/* --------------------PORTFOLIO-------------------- */
+
+.portfolio-section {
+}
+.portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-image {
+}
+.portfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.portfolio-category {
+  color: #434455;
+}
+
 /* --------------------FOOTER-------------------- */
 
+.footer {
+  background: #2e2f42;
+}
 .footer-logo {
+  color: #f4f4fd;
+}
+
+.footer-text {
   color: #f4f4fd;
 }
